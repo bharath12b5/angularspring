@@ -1,0 +1,20 @@
+Format: 1.8
+Date: Tue, 21 Feb 2017 18:23:17 +0530
+Source: angularspring-web
+Binary: angularspring-web
+Architecture: all
+Version: 1.0~20170221182304
+Distribution: unknown
+Urgency: low
+Maintainer: daniel@solong.co.uk
+Changed-By: daniel@solong.co.uk
+Description:
+ angularspring-web - [[description]]
+Changes:
+ angularspring-web (1.0~20170221182304) unknown; urgency=low
+Checksums-Sha1:
+ a4c6005b4721eb8cc515d226a5f92613dbe7f250 7016 angularspring-web.deb
+Checksums-Sha256:
+ 4e697bfb12ee4041cd3c11ae666b2ad95d4461b084089e1aacbf0af6a5364b1e 7016 angularspring-web.deb
+Files:
+ c06f4fa6bbd7dc3b5f75e0f939919b52 7016 misc low angularspring-web.deb
