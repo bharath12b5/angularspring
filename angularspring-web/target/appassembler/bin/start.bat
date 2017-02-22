@@ -72,7 +72,7 @@ if "%JAVACMD%"=="" set JAVACMD=java
 
 if "%REPO%"=="" set REPO=%BASEDIR%\repo
 
-set CLASSPATH="%BASEDIR%"\conf;"%REPO%"\in\co\angularspring\angularspring-core\1.0-SNAPSHOT\angularspring-core-1.0-SNAPSHOT.jar;"%REPO%"\in\co\angularspring\angularspring-web\1.0-SNAPSHOT\angularspring-web-1.0-SNAPSHOT.jar
+set CLASSPATH="%BASEDIR%"\conf;"%REPO%"\in\co\angularspring\angularspring-core\1.0\angularspring-core-1.0.jar;"%REPO%"\in\co\angularspring\angularspring-web\1.0\angularspring-web-1.0.jar
 
 set ENDORSED_DIR=
 if NOT "%ENDORSED_DIR%" == "" set CLASSPATH="%BASEDIR%"\%ENDORSED_DIR%\*;%CLASSPATH%

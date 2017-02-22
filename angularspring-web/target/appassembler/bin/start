@@ -97,7 +97,7 @@ then
   REPO="$BASEDIR"/repo
 fi
 
-CLASSPATH="$BASEDIR"/conf:"$REPO"/in/co/angularspring/angularspring-core/1.0-SNAPSHOT/angularspring-core-1.0-SNAPSHOT.jar:"$REPO"/in/co/angularspring/angularspring-web/1.0-SNAPSHOT/angularspring-web-1.0-SNAPSHOT.jar
+CLASSPATH="$BASEDIR"/conf:"$REPO"/in/co/angularspring/angularspring-core/1.0/angularspring-core-1.0.jar:"$REPO"/in/co/angularspring/angularspring-web/1.0/angularspring-web-1.0.jar
 
 ENDORSED_DIR=
 if [ -n "$ENDORSED_DIR" ] ; then
