@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Wed, 22 Feb 2017 14:25:32 +0530
+Date: Wed, 22 Feb 2017 14:47:14 +0530
 Source: angularspring-web
 Binary: angularspring-web
 Architecture: all
@@ -13,8 +13,8 @@ Description:
 Changes:
  angularspring-web (1.0) unknown; urgency=low
 Checksums-Sha1:
- 0bc271ce69ac7f976bb04b23229081701cb872a7 6952 angularspring-web.deb
+ 2df2583c002a63fc3dd7083fdde11c908f9b7cc7 6906 angularspring-web.deb
 Checksums-Sha256:
- 803960ad40ec10573b73df0741b396a1bc44a7fb3f918aeb106b1f2b493065f8 6952 angularspring-web.deb
+ cad04aa4206e3915125872432a3b3a59417d01e083c97e5bce8fc8d3b57ccf2d 6906 angularspring-web.deb
 Files:
- caed622089a28d712aa4b7e9f94e0061 6952 misc low angularspring-web.deb
+ b968fa6141fd2ea1662b678172a88e45 6906 misc low angularspring-web.deb
